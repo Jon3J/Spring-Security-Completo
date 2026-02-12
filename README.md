@@ -1,8 +1,8 @@
 # Spring Security – Arquitectura y Funcionamiento
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_u4hxo8u4hxo8u4hx" src="https://github.com/user-attachments/assets/d17f16d3-499d-48a5-aa35-b36f2dbde8f8" />
+<img width="500" height="500" alt="Gemini_Generated_Image_u4hxo8u4hxo8u4hx" src="https://github.com/user-attachments/assets/d4de4a73-5079-4fb5-b356-71371bf23b7d" />
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_xokoynxokoynxoko" src="https://github.com/user-attachments/assets/27c65fc7-daf4-45c4-abbf-ef4dae269906" />
+<img width="500" height="451" alt="Gemini_Generated_Image_xokoynxokoynxoko" src="https://github.com/user-attachments/assets/0de0a447-3f66-4b2d-89a1-a754811df723" />
 
 
 Este proyecto introduce los conceptos fundamentales de **Spring Security**, centrándose en su arquitectura interna y en cómo se gestiona el proceso de autenticación dentro de una aplicación Spring.
@@ -100,6 +100,6 @@ Todo lo explicado se plasma en la configuración de Spring Security y en la impl
 - Configuración de `PasswordEncoder`  
 - Controladores protegidos  
 
-Este proyecto se desarrolla utilizando **Visual Studio Code** como editor principal.
+Este proyecto se desarrolla utilizando **Visual Studio Code** como editor principal..
 
 
