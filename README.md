@@ -2,7 +2,7 @@
 
 <img width="500" height="500" alt="Gemini_Generated_Image_u4hxo8u4hxo8u4hx" src="https://github.com/user-attachments/assets/d4de4a73-5079-4fb5-b356-71371bf23b7d" />
 
-<img width="500" height="451" alt="Gemini_Generated_Image_xokoynxokoynxoko" src="https://github.com/user-attachments/assets/0de0a447-3f66-4b2d-89a1-a754811df723" />
+<img width="500" height="500" alt="Gemini_Generated_Image_xokoynxokoynxoko" src="https://github.com/user-attachments/assets/96eb0189-e499-42e2-8b63-7da056f4c278" />
 
 
 Este proyecto introduce los conceptos fundamentales de **Spring Security**, centrándose en su arquitectura interna y en cómo se gestiona el proceso de autenticación dentro de una aplicación Spring.
