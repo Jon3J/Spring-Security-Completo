@@ -102,4 +102,10 @@ Todo lo explicado se plasma en la configuración de Spring Security y en la impl
 
 Este proyecto se desarrolla utilizando **Visual Studio Code** como editor principal..
 
+## 📄 Licencia
+
+Este proyecto es de uso educativo y libre para estudio y práctica.
+
+
+
 
